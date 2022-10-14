@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ktrajasekar
+- 👋 Hi, I’m Rajasekar Thangavel,HCLTech Helping Digital Experience to Aero Passengers and Aero Pilots 
 - 👀 I’m interested in ReactJS, NodejS
 - 🌱 I’m currently learning Python Django, AWS Foundatation
 
